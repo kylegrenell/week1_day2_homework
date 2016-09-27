@@ -117,5 +117,6 @@ def fahrenheit_to_celsius()
   puts "fahrenheit value to convert to celsius = " + fahrenheit.to_s
 puts fahrenheit.to_s + " Degrees converter to celsius = " + ((fahrenheit - 32 * 5/9)).to_s
 end
+# Didn't actually complete this, this code is following the instructions of a youtube video! Would like to know what the actual answer is as this seems difficult
 
 
